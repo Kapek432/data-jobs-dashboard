@@ -2,6 +2,8 @@
 
 This dashboard is built following the [Power BI for Data Analytics - Full Course for Beginners](https://www.youtube.com/watch?v=FwjaHCVNBWA&t=12882s) by Luke Barousse.
 
+![Dashboard Page 1](images/Page1.png)
+
 ## 🔍 About
 
 Designed for those exploring the data job market—whether job seekers, career changers, or data enthusiasts—this dashboard organizes 2024 data science job postings into a clear, interactive report. It helps you uncover trends, salaries, locations, and hiring details all in one place.
@@ -20,9 +22,20 @@ The Power BI report file is here: `Data_Jobs_Dashboard.pbix`
 
 ## 🗂️ Pages Overview
 
-* **📊 Market Summary:** Quick snapshot of job counts, median pay, and top roles
-* **🔎 Job Details:** Dive deeper into specific job titles with salary ranges, remote work stats, hiring platforms, and job location maps
+### 1. 📊 Market Summary
+
+![Dashboard Page 1](images/Page1.png)
+
+An overview of the data job market showing total job counts, median salaries, and the most popular job titles. This page gives a quick snapshot of overall trends and market health.
+
+### 2. 🔎 Job Details Drill-Through
+
+![Dashboard Page 2](images/Page2.png)
+
+A detailed page accessed by drilling through on a specific job title. Here, you’ll find salary ranges, remote work statistics, leading hiring platforms, and a map showing job locations worldwide.
 
 ## 🎯 Purpose
 
 A learning project to apply Power BI skills by replicating a comprehensive dashboard from a beginner course, aimed at providing practical insights into the data jobs landscape.
+
+
